@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Solution1 
+{
+    public static void main (String args[])
+    {
+        Scanner n = new Scanner(System.in);
+        int n = scan.nextInt();
+        int k;
+        public static void main(String args[])
+        {
+              int a1 = 2;
+              System.out.println(Math.pow(k, a1));
+        }
+        while (n >= k*k)
+        {
+            System.out.println(k);
+        }
+    }
+}
